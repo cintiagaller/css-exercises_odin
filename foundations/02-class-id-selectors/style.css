@@ -1,0 +1,18 @@
+#large-blue-txt {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.odd-numbered-element {
+    background-color: #ce6767;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.medium-txt {
+    font-size: 24px;
+}
+
+#fourth-element {
+    background-color: rgb(140, 240, 140);
+    font-weight: bold;
+}
